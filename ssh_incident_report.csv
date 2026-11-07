@@ -1,0 +1,4 @@
+Incident ID,Source IP,Failed Attempts,Attempted Users,Last Failed Login,Successful User,Successful Login,Time To Successful Login (Seconds),Severity,Status,Recommended Action
+SSH-20261105061511-127_0_0_1,127.0.0.1,7,nagender@0509,2026-11-05T06:15:11.891889+00:00,None,None,,HIGH,Possible SSH Brute Force,"Investigate source IP, review authentication logs and monitor further attempts."
+SSH-20261105131121-127_0_0_1,127.0.0.1,5,nagender0509,2026-11-05T13:11:21.658886+00:00,nagender0509,2026-11-05T13:13:35.640600+00:00,133.981714,CRITICAL,Brute Force Followed By Successful Login,"Investigate account, validate login, review source IP and consider containment."
+SSH-20261106065934-127_0_0_1,127.0.0.1,5,nagender0509,2026-11-06T06:59:34.301651+00:00,nagender0509,2026-11-06T07:01:25.346113+00:00,111.044462,CRITICAL,Brute Force Followed By Successful Login,"Investigate account, validate login, review source IP and consider containment."

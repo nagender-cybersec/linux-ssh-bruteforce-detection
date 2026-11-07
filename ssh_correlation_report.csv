@@ -1,0 +1,6 @@
+Source IP,Failed Attempts,Last Failed Login,Successful User,Successful Login,Severity,Status
+127.0.0.1,5,2026-11-05T06:14:47.790792+00:00,None,None,HIGH,Possible SSH Brute Force
+127.0.0.1,6,2026-11-05T06:14:58.595534+00:00,None,None,HIGH,Possible SSH Brute Force
+127.0.0.1,7,2026-11-05T06:15:11.891889+00:00,None,None,HIGH,Possible SSH Brute Force
+127.0.0.1,5,2026-11-05T13:11:21.658886+00:00,nagender0509,2026-11-05T13:13:35.640600+00:00,CRITICAL,Brute Force Followed By Successful Login
+127.0.0.1,5,2026-11-06T06:59:34.301651+00:00,nagender0509,2026-11-06T07:01:25.346113+00:00,CRITICAL,Brute Force Followed By Successful Login
